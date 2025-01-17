@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ImagimobStudio version="1.1.0">
-  <Job id="be4d47b4-d4c4-11ef-a5a0-8f2ee6fe7932" />
+  <Job id="d8733169-d4c7-11ef-afa4-119ee13acfef" />
   <Preprocessor inshape="[4]" intype="Float32" infreq="3" outshape="[16,4]" outtype="Float32">
     <Unit id="Core.Queues.SlidingWindow">
       <Argument param="input" type="String">data</Argument>
